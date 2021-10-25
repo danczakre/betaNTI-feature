@@ -1,2 +1,2 @@
-# betaNTI-feature
-This repository contains various scripts used to perform the betaNTI (feature-level) analysis.
+# βNTI (Feature-level)
+The scripts contained within this repository will help users calculate βNTI-feat, including null generation and null merging.
